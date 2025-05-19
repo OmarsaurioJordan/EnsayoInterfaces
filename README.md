@@ -1,8 +1,10 @@
-# Title
+# EnsayoInterfaces (JodaMonigotica Demo)
 
-Requiere ...
+Requiere GMS 1.4
 
-Este software...
+Finalizado en 2018
+
+Este es el demo del cuál parte Caitval y JodaMonigotica, se trata de enviar por LAN mensajes a otros jugadores, que pueden ser aliados o enemigos, conquistados mediante poder económico, ideológico o militar, a la vez que se construye un pueblo por turnos
 
 puede probarlo en: ...
 
